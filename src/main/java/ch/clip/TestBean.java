@@ -9,7 +9,7 @@ import javax.inject.Named;
 public class TestBean {
 	
 	public String getMessage() {
-		return "Hello World";
+		return "Hello World - second try";
 	}
 		
 }
